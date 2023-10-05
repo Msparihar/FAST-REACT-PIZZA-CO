@@ -4,6 +4,9 @@ This is my first React App.
 
 This is a preview of the Application.
 
+![Preview](https://github.com/Msparihar/FAST-REACT-PIZZA-CO/assets/75237981/7881a2e7-8b5a-4027-bdcd-fced276463e4)
+
+
 ## Getting Started
 
 `npm start`
